@@ -1,1 +1,50 @@
-
+[
+    {
+        "this_or_next": "this_week",
+        "weekday": "Wednesday",
+        "date": "05/24",
+        "time": [
+            "11am"
+        ]
+    },
+    {
+        "this_or_next": "this_week",
+        "weekday": "Thursday",
+        "date": "05/25",
+        "time": [
+            "9am"
+        ]
+    },
+    {
+        "this_or_next": "this_week",
+        "weekday": "Friday",
+        "date": "05/26",
+        "time": "None"
+    },
+    {
+        "this_or_next": "this_week",
+        "weekday": "Saturday",
+        "date": "05/27",
+        "time": "None"
+    },
+    {
+        "this_or_next": "next_week",
+        "weekday": "Sunday",
+        "date": "05/28",
+        "time": "None"
+    },
+    {
+        "this_or_next": "next_week",
+        "weekday": "Monday",
+        "date": "05/29",
+        "time": "None"
+    },
+    {
+        "this_or_next": "next_week",
+        "weekday": "Tuesday",
+        "date": "05/30",
+        "time": [
+            "9am"
+        ]
+    }
+]
