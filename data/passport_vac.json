@@ -1,22 +1,19 @@
 [
     {
         "Date": "Thursday, June 01",
-        "Time": [
-            "12pm",
-            "12:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Friday, June 02",
-        "Time": "No Vacancy"
+        "Time": "No Appointments"
     },
     {
         "Date": "Saturday, June 03",
-        "Time": "No Vacancy"
+        "Time": "No Appointments"
     },
     {
         "Date": "Sunday, June 04",
-        "Time": "No Vacancy"
+        "Time": "No Appointments"
     },
     {
         "Date": "Monday, June 05",
