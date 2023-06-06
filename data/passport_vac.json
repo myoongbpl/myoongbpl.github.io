@@ -2,14 +2,19 @@
     {
         "Date": "Wednesday, June 07",
         "Time": [
-            "11am"
+            "11am",
+            "1:30pm"
         ]
     },
     {
         "Date": "Thursday, June 08",
         "Time": [
             "9am",
-            "9:30am"
+            "9:30am",
+            "2pm",
+            "2:30pm",
+            "3pm",
+            "3:30pm"
         ]
     },
     {
@@ -37,9 +42,6 @@
             "11am",
             "11:30am",
             "12pm",
-            "12:30pm",
-            "1pm",
-            "1:30pm",
             "2pm",
             "2:30pm",
             "3pm",
