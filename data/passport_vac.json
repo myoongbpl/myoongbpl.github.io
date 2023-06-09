@@ -9,20 +9,13 @@
     },
     {
         "Date": "Monday, June 12",
-        "Time": [
-            "11am"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Tuesday, June 13",
         "Time": [
             "9am",
-            "9:30am",
-            "10am",
-            "12pm",
-            "12:30pm",
-            "1pm",
-            "4:30pm"
+            "9:30am"
         ]
     },
     {
