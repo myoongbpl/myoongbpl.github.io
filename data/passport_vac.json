@@ -5,7 +5,10 @@
     },
     {
         "Date": "Thursday, June 15",
-        "Time": "No Appointments"
+        "Time": [
+            "9am",
+            "9:30am"
+        ]
     },
     {
         "Date": "Friday, June 16",
