@@ -21,12 +21,7 @@
     },
     {
         "Date": "Saturday, July 01",
-        "Time": [
-            "10am",
-            "10:30am",
-            "11am",
-            "11:30am"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Sunday, July 02",
@@ -41,9 +36,6 @@
     {
         "Date": "Monday, July 03",
         "Time": [
-            "10am",
-            "10:30am",
-            "11am",
             "11:30am",
             "12pm",
             "12:30pm",
