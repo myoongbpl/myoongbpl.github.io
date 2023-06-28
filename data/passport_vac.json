@@ -3,7 +3,8 @@
         "Date": "Thursday, June 29",
         "Time": [
             "9am",
-            "9:30am"
+            "9:30am",
+            "10am"
         ]
     },
     {
@@ -16,13 +17,7 @@
     },
     {
         "Date": "Sunday, July 02",
-        "Time": [
-            "12pm",
-            "12:30pm",
-            "1pm",
-            "1:30pm",
-            "2pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Monday, July 03",
