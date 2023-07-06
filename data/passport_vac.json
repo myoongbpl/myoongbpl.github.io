@@ -5,9 +5,7 @@
     },
     {
         "Date": "Saturday, July 08",
-        "Time": [
-            "4:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Sunday, July 09",
@@ -69,9 +67,7 @@
             "1:30pm",
             "2pm",
             "2:30pm",
-            "3pm",
-            "5:30pm",
-            "6pm"
+            "3pm"
         ]
     }
 ]
