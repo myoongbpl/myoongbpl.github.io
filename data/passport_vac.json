@@ -1,42 +1,34 @@
 [
     {
-        "Date": "Sunday, July 16",
-        "Time": "No Appointments"
-    },
-    {
         "Date": "Monday, July 17",
-        "Time": "No Appointments"
-    },
-    {
-        "Date": "Tuesday, July 18",
-        "Time": "No Appointments"
-    },
-    {
-        "Date": "Wednesday, July 19",
         "Time": [
             "12pm",
-            "12:30pm",
-            "1pm",
-            "1:30pm",
-            "2pm",
             "2:30pm",
             "3pm",
             "3:30pm"
         ]
     },
     {
+        "Date": "Tuesday, July 18",
+        "Time": [
+            "1pm",
+            "2pm",
+            "4:30pm",
+            "5pm",
+            "7pm"
+        ]
+    },
+    {
+        "Date": "Wednesday, July 19",
+        "Time": [
+            "11:30am"
+        ]
+    },
+    {
         "Date": "Thursday, July 20",
         "Time": [
-            "11am",
-            "11:30am",
-            "12pm",
-            "12:30pm",
-            "2pm",
-            "2:30pm",
-            "3pm",
-            "3:30pm",
-            "4pm",
-            "6pm"
+            "9am",
+            "11am"
         ]
     },
     {
@@ -46,8 +38,12 @@
     {
         "Date": "Saturday, July 22",
         "Time": [
-            "4pm",
-            "4:30pm"
+            "10am",
+            "10:30am"
         ]
+    },
+    {
+        "Date": "Sunday, July 23",
+        "Time": "No Appointments"
     }
 ]
