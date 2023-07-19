@@ -7,9 +7,7 @@
     },
     {
         "Date": "Thursday, July 20",
-        "Time": [
-            "4pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Friday, July 21",
@@ -25,28 +23,15 @@
     },
     {
         "Date": "Monday, July 24",
-        "Time": [
-            "1pm",
-            "1:30pm",
-            "2pm",
-            "2:30pm",
-            "3pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Tuesday, July 25",
         "Time": [
-            "10:30am",
-            "11am",
             "11:30am",
             "12pm",
             "12:30pm",
             "1pm",
-            "1:30pm",
-            "2pm",
-            "2:30pm",
-            "3pm",
-            "3:30pm",
             "4pm",
             "4:30pm",
             "5pm",
