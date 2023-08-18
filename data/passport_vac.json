@@ -5,12 +5,7 @@
     },
     {
         "Date": "Sunday, August 20",
-        "Time": [
-            "12pm",
-            "12:30pm",
-            "1pm",
-            "1:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Monday, August 21",
@@ -18,9 +13,7 @@
     },
     {
         "Date": "Tuesday, August 22",
-        "Time": [
-            "11am"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Wednesday, August 23",
@@ -32,7 +25,6 @@
     {
         "Date": "Thursday, August 24",
         "Time": [
-            "9am",
             "3pm"
         ]
     },
