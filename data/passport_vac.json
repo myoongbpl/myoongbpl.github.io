@@ -2,25 +2,14 @@
     {
         "Date": "Wednesday, September 06",
         "Time": [
-            "9am",
-            "11am",
-            "11:30am",
-            "12pm",
-            "12:30pm",
-            "1pm",
-            "1:30pm",
-            "2pm"
+            "9am"
         ]
     },
     {
         "Date": "Thursday, September 07",
         "Time": [
-            "11am",
-            "11:30am",
-            "12pm",
-            "12:30pm",
-            "1pm",
-            "1:30pm"
+            "10am",
+            "10:30am"
         ]
     },
     {
@@ -34,7 +23,6 @@
     {
         "Date": "Sunday, September 10",
         "Time": [
-            "12pm",
             "3:30pm"
         ]
     },
