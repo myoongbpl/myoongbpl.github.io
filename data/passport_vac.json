@@ -5,20 +5,24 @@
             "12:30pm",
             "1pm",
             "1:30pm",
-            "2pm",
-            "2:30pm"
+            "2pm"
         ]
     },
     {
         "Date": "Wednesday, September 13",
-        "Time": "No Appointments"
+        "Time": [
+            "2pm",
+            "5pm"
+        ]
     },
     {
         "Date": "Thursday, September 14",
         "Time": [
             "9am",
             "1pm",
-            "1:30pm"
+            "1:30pm",
+            "2pm",
+            "2:30pm"
         ]
     },
     {
