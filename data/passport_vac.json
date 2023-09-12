@@ -1,11 +1,18 @@
 [
     {
         "Date": "Wednesday, September 13",
-        "Time": "No Appointments"
+        "Time": [
+            "2pm"
+        ]
     },
     {
         "Date": "Thursday, September 14",
-        "Time": "No Appointments"
+        "Time": [
+            "1pm",
+            "1:30pm",
+            "2pm",
+            "2:30pm"
+        ]
     },
     {
         "Date": "Friday, September 15",
@@ -34,10 +41,7 @@
             "1:30pm",
             "2pm",
             "2:30pm",
-            "3pm",
-            "3:30pm",
-            "4pm",
-            "4:30pm"
+            "3pm"
         ]
     },
     {
