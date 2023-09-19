@@ -10,9 +10,7 @@
     },
     {
         "Date": "Thursday, September 21",
-        "Time": [
-            "12pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Friday, September 22",
@@ -38,8 +36,6 @@
             "12pm",
             "12:30pm",
             "1pm",
-            "1:30pm",
-            "2pm",
             "2:30pm",
             "3pm"
         ]
