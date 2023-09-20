@@ -13,7 +13,9 @@
     },
     {
         "Date": "Sunday, September 24",
-        "Time": "No Appointments"
+        "Time": [
+            "3:30pm"
+        ]
     },
     {
         "Date": "Monday, September 25",
