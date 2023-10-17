@@ -1,11 +1,21 @@
 [
     {
         "Date": "Wednesday, October 18",
-        "Time": "No Appointments"
+        "Time": [
+            "1pm"
+        ]
     },
     {
         "Date": "Thursday, October 19",
-        "Time": "No Appointments"
+        "Time": [
+            "12pm",
+            "12:30pm",
+            "1pm",
+            "1:30pm",
+            "2pm",
+            "2:30pm",
+            "3pm"
+        ]
     },
     {
         "Date": "Friday, October 20",
@@ -60,10 +70,6 @@
             "4pm",
             "4:30pm",
             "5pm",
-            "5:30pm",
-            "6pm",
-            "6:30pm",
-            "7pm",
             "7:30pm"
         ]
     }
