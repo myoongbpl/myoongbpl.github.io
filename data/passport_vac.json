@@ -1,12 +1,7 @@
 [
     {
         "Date": "Thursday, October 19",
-        "Time": [
-            "1pm",
-            "1:30pm",
-            "2pm",
-            "2:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Friday, October 20",
@@ -23,12 +18,7 @@
     {
         "Date": "Monday, October 23",
         "Time": [
-            "9am",
-            "11am",
-            "11:30am",
-            "12pm",
-            "12:30pm",
-            "4pm"
+            "9am"
         ]
     },
     {
@@ -42,12 +32,8 @@
             "11:30am",
             "12pm",
             "12:30pm",
-            "1pm",
-            "1:30pm",
             "2pm",
-            "2:30pm",
-            "3pm",
-            "3:30pm"
+            "2:30pm"
         ]
     },
     {
@@ -71,10 +57,7 @@
             "4:30pm",
             "5pm",
             "5:30pm",
-            "6pm",
-            "6:30pm",
-            "7pm",
-            "7:30pm"
+            "6pm"
         ]
     }
 ]
