@@ -53,9 +53,7 @@
     },
     {
         "Date": "Sunday, October 29",
-        "Time": [
-            "3:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Monday, October 30",
@@ -79,9 +77,7 @@
             "5pm",
             "5:30pm",
             "6pm",
-            "6:30pm",
-            "7pm",
-            "7:30pm"
+            "6:30pm"
         ]
     }
 ]
