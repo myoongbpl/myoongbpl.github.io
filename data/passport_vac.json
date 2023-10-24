@@ -3,11 +3,7 @@
         "Date": "Wednesday, October 25",
         "Time": [
             "12:30pm",
-            "1pm",
-            "1:30pm",
-            "2pm",
-            "2:30pm",
-            "3pm"
+            "1pm"
         ]
     },
     {
@@ -26,7 +22,8 @@
     {
         "Date": "Saturday, October 28",
         "Time": [
-            "1pm"
+            "1pm",
+            "1:30pm"
         ]
     },
     {
