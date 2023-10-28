@@ -5,9 +5,7 @@
     },
     {
         "Date": "Monday, October 30",
-        "Time": [
-            "3pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Tuesday, October 31",
@@ -64,10 +62,7 @@
             "1:30pm",
             "2pm",
             "2:30pm",
-            "3pm",
-            "5pm",
-            "5:30pm",
-            "6pm"
+            "3pm"
         ]
     },
     {
