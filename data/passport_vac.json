@@ -1,39 +1,19 @@
 [
     {
         "Date": "Tuesday, November 07",
-        "Time": [
-            "11am",
-            "11:30am",
-            "12pm",
-            "12:30pm",
-            "1pm",
-            "1:30pm",
-            "2pm",
-            "2:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Wednesday, November 08",
         "Time": [
-            "9am",
-            "11am",
-            "11:30am",
-            "2:30pm"
+            "9am"
         ]
     },
     {
         "Date": "Thursday, November 09",
         "Time": [
             "9am",
-            "9:30am",
-            "10am",
-            "10:30am",
-            "11am",
-            "11:30am",
-            "12pm",
-            "12:30pm",
-            "1pm",
-            "3pm"
+            "9:30am"
         ]
     },
     {
@@ -42,14 +22,7 @@
     },
     {
         "Date": "Saturday, November 11",
-        "Time": [
-            "1pm",
-            "1:30pm",
-            "2pm",
-            "2:30pm",
-            "3pm",
-            "3:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Sunday, November 12",
@@ -68,9 +41,6 @@
         "Date": "Monday, November 13",
         "Time": [
             "9am",
-            "9:30am",
-            "10am",
-            "10:30am",
             "11am",
             "11:30am",
             "12pm",
