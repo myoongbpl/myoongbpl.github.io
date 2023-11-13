@@ -30,7 +30,8 @@
             "12pm",
             "12:30pm",
             "1pm",
-            "1:30pm"
+            "1:30pm",
+            "2pm"
         ]
     },
     {
@@ -43,9 +44,7 @@
     },
     {
         "Date": "Sunday, November 19",
-        "Time": [
-            "2pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Monday, November 20",
