@@ -49,6 +49,9 @@
     },
     {
         "Date": "Sunday, November 26",
-        "Time": "No Appointments"
+        "Time": [
+            "12:30pm",
+            "1pm"
+        ]
     }
 ]
