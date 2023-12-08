@@ -1,9 +1,5 @@
 [
     {
-        "Date": "Friday, December 08",
-        "Time": "No Appointments"
-    },
-    {
         "Date": "Saturday, December 09",
         "Time": "No Appointments"
     },
@@ -73,5 +69,9 @@
             "3:30pm",
             "6:30pm"
         ]
+    },
+    {
+        "Date": "Friday, December 15",
+        "Time": "No Appointments"
     }
 ]
