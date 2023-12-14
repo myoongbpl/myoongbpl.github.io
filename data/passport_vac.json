@@ -5,7 +5,10 @@
     },
     {
         "Date": "Saturday, December 16",
-        "Time": "No Appointments"
+        "Time": [
+            "2:30pm",
+            "3pm"
+        ]
     },
     {
         "Date": "Sunday, December 17",
@@ -61,9 +64,7 @@
             "3pm",
             "3:30pm",
             "4pm",
-            "4:30pm",
-            "5pm",
-            "5:30pm"
+            "4:30pm"
         ]
     },
     {
