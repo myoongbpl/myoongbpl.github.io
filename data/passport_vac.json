@@ -1,27 +1,25 @@
 [
     {
         "Date": "Wednesday, December 27",
-        "Time": [
-            "1:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Thursday, December 28",
         "Time": [
-            "11:30am",
-            "12pm",
-            "12:30pm",
             "1pm",
             "1:30pm",
             "2pm",
-            "2:30pm"
+            "2:30pm",
+            "3pm",
+            "3:30pm",
+            "4pm",
+            "4:30pm",
+            "5pm"
         ]
     },
     {
         "Date": "Friday, December 29",
-        "Time": [
-            "3pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Saturday, December 30",
@@ -32,7 +30,9 @@
             "1pm",
             "1:30pm",
             "2pm",
-            "2:30pm"
+            "2:30pm",
+            "3pm",
+            "3:30pm"
         ]
     },
     {
