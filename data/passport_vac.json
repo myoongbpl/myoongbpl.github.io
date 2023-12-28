@@ -18,17 +18,27 @@
     {
         "Date": "Tuesday, January 02",
         "Time": [
-            "11am"
+            "1pm",
+            "4pm"
         ]
     },
     {
         "Date": "Wednesday, January 03",
-        "Time": "No Appointments"
+        "Time": [
+            "3pm",
+            "3:30pm",
+            "4pm"
+        ]
     },
     {
         "Date": "Thursday, January 04",
         "Time": [
-            "1:30pm"
+            "9am",
+            "3pm",
+            "3:30pm",
+            "4pm",
+            "4:30pm",
+            "5pm"
         ]
     }
 ]
