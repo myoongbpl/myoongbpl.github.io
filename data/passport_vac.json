@@ -34,16 +34,12 @@
             "1:30pm",
             "2pm",
             "2:30pm",
-            "3pm",
-            "5pm",
-            "5:30pm",
-            "6pm"
+            "3pm"
         ]
     },
     {
         "Date": "Tuesday, January 09",
         "Time": [
-            "11am",
             "11:30am",
             "12pm",
             "12:30pm",
