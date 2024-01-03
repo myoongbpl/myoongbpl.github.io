@@ -9,7 +9,9 @@
     },
     {
         "Date": "Saturday, January 06",
-        "Time": "No Appointments"
+        "Time": [
+            "9am"
+        ]
     },
     {
         "Date": "Sunday, January 07",
@@ -49,11 +51,7 @@
             "1pm",
             "1:30pm",
             "2pm",
-            "2:30pm",
-            "4:30pm",
-            "5pm",
-            "5:30pm",
-            "6pm"
+            "2:30pm"
         ]
     }
 ]
