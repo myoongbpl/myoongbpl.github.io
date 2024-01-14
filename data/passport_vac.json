@@ -1,23 +1,34 @@
 [
     {
-        "Date": "Sunday, January 14",
-        "Time": "No Appointments"
-    },
-    {
         "Date": "Monday, January 15",
-        "Time": "No Appointments"
+        "Time": [
+            "2:30pm",
+            "3pm",
+            "5pm"
+        ]
     },
     {
         "Date": "Tuesday, January 16",
-        "Time": "No Appointments"
+        "Time": [
+            "10:30am",
+            "1:30pm",
+            "4pm",
+            "5pm",
+            "6:30pm",
+            "7:30pm"
+        ]
     },
     {
         "Date": "Wednesday, January 17",
-        "Time": "No Appointments"
+        "Time": [
+            "7:30pm"
+        ]
     },
     {
         "Date": "Thursday, January 18",
-        "Time": "No Appointments"
+        "Time": [
+            "7:30pm"
+        ]
     },
     {
         "Date": "Friday, January 19",
@@ -25,6 +36,13 @@
     },
     {
         "Date": "Saturday, January 20",
+        "Time": [
+            "2pm",
+            "2:30pm"
+        ]
+    },
+    {
+        "Date": "Sunday, January 21",
         "Time": "No Appointments"
     }
 ]
