@@ -9,7 +9,9 @@
     },
     {
         "Date": "Tuesday, January 30",
-        "Time": "No Appointments"
+        "Time": [
+            "12:30pm"
+        ]
     },
     {
         "Date": "Wednesday, January 31",
