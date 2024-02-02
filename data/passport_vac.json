@@ -9,11 +9,17 @@
     },
     {
         "Date": "Monday, February 05",
-        "Time": "No Appointments"
+        "Time": [
+            "4pm"
+        ]
     },
     {
         "Date": "Tuesday, February 06",
-        "Time": "No Appointments"
+        "Time": [
+            "2:30pm",
+            "6:30pm",
+            "7pm"
+        ]
     },
     {
         "Date": "Wednesday, February 07",
