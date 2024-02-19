@@ -1,7 +1,10 @@
 [
     {
         "Date": "Tuesday, February 20",
-        "Time": "No Appointments"
+        "Time": [
+            "10:30am",
+            "11am"
+        ]
     },
     {
         "Date": "Wednesday, February 21",
