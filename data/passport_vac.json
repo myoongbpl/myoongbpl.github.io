@@ -17,11 +17,15 @@
     },
     {
         "Date": "Sunday, March 10",
-        "Time": "No Appointments"
+        "Time": [
+            "2pm"
+        ]
     },
     {
         "Date": "Monday, March 11",
-        "Time": "No Appointments"
+        "Time": [
+            "2pm"
+        ]
     },
     {
         "Date": "Tuesday, March 12",
