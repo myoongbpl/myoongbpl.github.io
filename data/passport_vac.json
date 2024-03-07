@@ -21,16 +21,13 @@
     },
     {
         "Date": "Wednesday, March 13",
-        "Time": [
-            "9:30am",
-            "10am"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Thursday, March 14",
         "Time": [
-            "9am",
-            "9:30am"
+            "11:30am",
+            "12pm"
         ]
     }
 ]
