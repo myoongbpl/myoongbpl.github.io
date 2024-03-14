@@ -9,15 +9,27 @@
     },
     {
         "Date": "Sunday, March 17",
-        "Time": "No Appointments"
+        "Time": [
+            "2:30pm",
+            "3pm"
+        ]
     },
     {
         "Date": "Monday, March 18",
-        "Time": "No Appointments"
+        "Time": [
+            "11:30am",
+            "12pm",
+            "6pm"
+        ]
     },
     {
         "Date": "Tuesday, March 19",
-        "Time": "No Appointments"
+        "Time": [
+            "1:30pm",
+            "2pm",
+            "4pm",
+            "5:30pm"
+        ]
     },
     {
         "Date": "Wednesday, March 20",
@@ -25,6 +37,8 @@
     },
     {
         "Date": "Thursday, March 21",
-        "Time": "No Appointments"
+        "Time": [
+            "10:30am"
+        ]
     }
 ]
