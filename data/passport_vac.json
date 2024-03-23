@@ -1,40 +1,23 @@
 [
     {
         "Date": "Sunday, March 24",
-        "Time": [
-            "1:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Monday, March 25",
-        "Time": [
-            "6:30pm",
-            "7pm",
-            "7:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Tuesday, March 26",
-        "Time": [
-            "3:30pm",
-            "6:30pm",
-            "7pm",
-            "7:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Wednesday, March 27",
-        "Time": [
-            "11am",
-            "7pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Thursday, March 28",
-        "Time": [
-            "10am",
-            "7:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Friday, March 29",
@@ -43,7 +26,7 @@
     {
         "Date": "Saturday, March 30",
         "Time": [
-            "11am"
+            "3pm"
         ]
     }
 ]
