@@ -25,6 +25,9 @@
     },
     {
         "Date": "Wednesday, April 03",
-        "Time": "No Appointments"
+        "Time": [
+            "2pm",
+            "2:30pm"
+        ]
     }
 ]
