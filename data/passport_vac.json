@@ -5,13 +5,14 @@
     },
     {
         "Date": "Sunday, April 07",
-        "Time": "No Appointments"
+        "Time": [
+            "2pm",
+            "2:30pm"
+        ]
     },
     {
         "Date": "Monday, April 08",
-        "Time": [
-            "12:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Tuesday, April 09",
