@@ -5,19 +5,11 @@
     },
     {
         "Date": "Monday, April 08",
-        "Time": [
-            "10am",
-            "10:30am",
-            "11am",
-            "11:30am",
-            "4pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Tuesday, April 09",
-        "Time": [
-            "1:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Wednesday, April 10",
@@ -25,10 +17,7 @@
     },
     {
         "Date": "Thursday, April 11",
-        "Time": [
-            "5:30pm",
-            "7pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Friday, April 12",
@@ -36,9 +25,6 @@
     },
     {
         "Date": "Saturday, April 13",
-        "Time": [
-            "3pm",
-            "3:30pm"
-        ]
+        "Time": "No Appointments"
     }
 ]
