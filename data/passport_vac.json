@@ -17,9 +17,7 @@
     },
     {
         "Date": "Monday, April 15",
-        "Time": [
-            "1:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Tuesday, April 16",
@@ -45,8 +43,7 @@
             "1pm",
             "1:30pm",
             "2pm",
-            "2:30pm",
-            "3pm"
+            "2:30pm"
         ]
     }
 ]
