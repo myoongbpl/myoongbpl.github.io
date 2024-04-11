@@ -9,28 +9,45 @@
     },
     {
         "Date": "Sunday, April 14",
-        "Time": "No Appointments"
-    },
-    {
-        "Date": "Monday, April 15",
         "Time": [
-            "5pm",
-            "5:30pm"
+            "2pm"
         ]
     },
     {
-        "Date": "Tuesday, April 16",
+        "Date": "Monday, April 15",
         "Time": "No Appointments"
+    },
+    {
+        "Date": "Tuesday, April 16",
+        "Time": [
+            "11:30am",
+            "12pm",
+            "12:30pm",
+            "1pm"
+        ]
     },
     {
         "Date": "Wednesday, April 17",
         "Time": [
-            "3pm",
-            "6:30pm"
+            "10am",
+            "12pm",
+            "12:30pm",
+            "1pm"
         ]
     },
     {
         "Date": "Thursday, April 18",
-        "Time": "No Appointments"
+        "Time": [
+            "9am",
+            "11am",
+            "11:30am",
+            "12pm",
+            "12:30pm",
+            "1pm",
+            "1:30pm",
+            "2pm",
+            "2:30pm",
+            "3pm"
+        ]
     }
 ]
