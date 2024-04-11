@@ -22,13 +22,17 @@
     {
         "Date": "Wednesday, April 17",
         "Time": [
-            "3pm"
+            "10am"
         ]
     },
     {
         "Date": "Thursday, April 18",
         "Time": [
-            "11:30am"
+            "9am",
+            "1:30pm",
+            "2pm",
+            "2:30pm",
+            "3pm"
         ]
     }
 ]
