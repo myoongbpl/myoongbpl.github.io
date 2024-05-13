@@ -9,9 +9,7 @@
     },
     {
         "Date": "Thursday, May 16",
-        "Time": [
-            "9am"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Friday, May 17",
@@ -35,8 +33,6 @@
             "11am",
             "11:30am",
             "12pm",
-            "2pm",
-            "2:30pm",
             "3pm",
             "3:30pm",
             "4pm",
