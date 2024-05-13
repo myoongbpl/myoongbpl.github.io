@@ -21,15 +21,18 @@
     },
     {
         "Date": "Sunday, May 19",
-        "Time": [
-            "1:30pm"
-        ]
+        "Time": "No Appointments"
     },
     {
         "Date": "Monday, May 20",
         "Time": [
-            "5pm",
-            "5:30pm"
+            "9am",
+            "11:30am",
+            "12pm",
+            "3pm",
+            "3:30pm",
+            "4pm",
+            "7:30pm"
         ]
     }
 ]
