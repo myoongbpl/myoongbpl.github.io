@@ -1,0 +1,33 @@
+{
+    "success": true,
+    "titles": [
+        {
+            "title": "My Mama, Cass",
+            "author": "Elliot-kugell, Owen",
+            "formattedTitle": "<div id=\"scrollerTitleJustin0\" class=\"carouselScrollerTitle\"><a href=\"/GroupedWork/61564f23-a12f-03c5-09de-b39e1decdb57-eng/Home\" tabindex=\"1\"><div class=\"carouselScrollerTitleImage\"><img src=\"/bookcover.php?id=61564f23-a12f-03c5-09de-b39e1decdb57-eng&size=small&type=grouped_work&category=Audio Books\" class=\"scrollerTitleCover\" alt=\"My Mama, Cass Cover\" aria-hidden=\"true\"/></div><div class=\"carouselScrollerTitleLabel\"><span>My Mama, Cass</span></div></a></div>"
+        },
+        {
+            "title": "Rebel girl: my life as a feminist punk",
+            "author": "Hanna, Kathleen",
+            "formattedTitle": "<div id=\"scrollerTitleJustin1\" class=\"carouselScrollerTitle\"><a href=\"/GroupedWork/fb4245ff-0f58-a751-c87c-bed4ac8eb99e-eng/Home\" tabindex=\"1\"><div class=\"carouselScrollerTitleImage\"><img src=\"/bookcover.php?id=fb4245ff-0f58-a751-c87c-bed4ac8eb99e-eng&size=small&type=grouped_work&category=Audio Books\" class=\"scrollerTitleCover\" alt=\"Rebel girl: my life as a feminist punk Cover\" aria-hidden=\"true\"/></div><div class=\"carouselScrollerTitleLabel\"><span>Rebel girl: my life as a feminist punk</span></div></a></div>"
+        },
+        {
+            "title": "With Each Tomorrow",
+            "author": "Peterson, Tracie/ Woodhouse, Kimberley",
+            "formattedTitle": "<div id=\"scrollerTitleJustin2\" class=\"carouselScrollerTitle\"><a href=\"/GroupedWork/5a82b36a-d82c-bd47-8150-d28508c1fb7d-eng/Home\" tabindex=\"1\"><div class=\"carouselScrollerTitleImage\"><img src=\"/bookcover.php?id=5a82b36a-d82c-bd47-8150-d28508c1fb7d-eng&size=small&type=grouped_work&category=eBook\" class=\"scrollerTitleCover\" alt=\"With Each Tomorrow Cover\" aria-hidden=\"true\"/></div><div class=\"carouselScrollerTitleLabel\"><span>With Each Tomorrow</span></div></a></div>"
+        },
+        {
+            "title": "Challenger: a true story of heroism and disaster on the edge of space",
+            "author": "Higginbotham, Adam",
+            "formattedTitle": "<div id=\"scrollerTitleJustin3\" class=\"carouselScrollerTitle\"><a href=\"/GroupedWork/d6a96658-59de-7792-86e1-4512e979c710-eng/Home\" tabindex=\"1\"><div class=\"carouselScrollerTitleImage\"><img src=\"/bookcover.php?id=d6a96658-59de-7792-86e1-4512e979c710-eng&size=small&type=grouped_work&category=eBook\" class=\"scrollerTitleCover\" alt=\"Challenger: a true story of heroism and disaster on the edge of space Cover\" aria-hidden=\"true\"/></div><div class=\"carouselScrollerTitleLabel\"><span>Challenger: a true story of heroism and disaster on the edge of space</span></div></a></div>"
+        },
+        {
+            "title": "Mr. Bates vs the post office",
+            "author": "",
+            "formattedTitle": "<div id=\"scrollerTitleJustin4\" class=\"carouselScrollerTitle\"><a href=\"/GroupedWork/7cc8643c-e66e-08ef-c7d9-5b06c186b6eb-eng/Home\" tabindex=\"1\"><div class=\"carouselScrollerTitleImage\"><img src=\"/bookcover.php?id=7cc8643c-e66e-08ef-c7d9-5b06c186b6eb-eng&size=small&type=grouped_work&category=Movies\" class=\"scrollerTitleCover\" alt=\"Mr. Bates vs the post office Cover\" aria-hidden=\"true\"/></div><div class=\"carouselScrollerTitleLabel\"><span>Mr. Bates vs the post office</span></div></a></div>"
+        }
+    ],
+    "listTitle": "Just in",
+    "listDescription": "",
+    "currentIndex": 0
+}
